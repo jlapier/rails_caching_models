@@ -1,0 +1,3 @@
+sqlite3:
+  :adapter: sqlite3
+  :database: vendor/plugins/rails_caching_models/test/rails_caching_models_plugin.sqlite3.db
